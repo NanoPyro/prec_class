@@ -1,2 +1,2 @@
-# tt_practice
-통계학특강
+# prec_class
+Some test materials for the Statistics Seminar class.
