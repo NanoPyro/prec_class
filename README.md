@@ -5,4 +5,4 @@ _italics_
 **bold**  
 **_bold and italic_**  
 #### Header 4
-[To **google**](www.google.com)
+[To **google**](http://www.google.com)
